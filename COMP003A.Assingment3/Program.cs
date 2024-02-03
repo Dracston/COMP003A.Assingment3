@@ -60,9 +60,8 @@ namespace COMP003A.Assingment3
                     break;
                 case 7: Console.WriteLine("It's Sunday!");
                     break;
-                default: Console.WriteLine("Invalid day! Try Again!");
+                default: Console.WriteLine("Invalid day!");
                     break;
-
 
             }
 
